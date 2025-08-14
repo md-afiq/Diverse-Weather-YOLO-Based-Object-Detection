@@ -24,16 +24,16 @@ The system is trained and evaluated to ensure robust performance in challenging 
 
 ## 📊 Example Results
 
-### Foggy Weather
-![Foggy Detection 01](Results%20Output/detected_foggy%20weather%2001.jpg)
-![Foggy Detection 02](Results%20Output/detected_foggy%20weather%2002.webp)
-
 ### Rainy Weather
 ![Rainy Detection 01](Results%20Output/detected_rainy%20weather%2001.jpg)
 ![Rainy Detection 02](Results%20Output/detected_rainy%20weather%2002.jpg)
 
-### Normal Sample Detection
-![Sample Detection](Results%20Output/detected_sample.jpg)
+### Foggy Weather
+![Foggy Detection 01](Results%20Output/detected_foggy%20weather%2001.jpg)
+![Foggy Detection 02](Results%20Output/detected_foggy%20weather%2002.webp)
+
+
+
 
 ### Training and Evaluation Results
 ![Results Graph](Results%20Output/results.png)
