@@ -25,30 +25,22 @@ The system is trained and evaluated to ensure robust performance in challenging 
 ## 📊 Example Results
 
 ### Foggy Weather
-![Foggy Detection 01](detected_foggy%20weather%2001.jpg)  
-![Foggy Detection 02](detected_foggy%20weather%2002.webp)
-
----
+![Foggy Detection 01](Results%20Output/detected_foggy%20weather%2001.jpg)
+![Foggy Detection 02](Results%20Output/detected_foggy%20weather%2002.webp)
 
 ### Rainy Weather
-![Rainy Detection 01](detected_rainy%20weather%2001.jpg)  
-![Rainy Detection 02](detected_rainy%20weather%2002.jpg)
-
----
+![Rainy Detection 01](Results%20Output/detected_rainy%20weather%2001.jpg)
+![Rainy Detection 02](Results%20Output/detected_rainy%20weather%2002.jpg)
 
 ### Normal Sample Detection
-![Sample Detection](detected_sample.jpg)
-
----
+![Sample Detection](Results%20Output/detected_sample.jpg)
 
 ### Training and Evaluation Results
-![Results Graph](results.png)
+![Results Graph](Results%20Output/results.png)
 
----
 
 ## 🎥 Sample Video Output
-You can watch the detection results in motion here:  
-`output_first_1000.mp4`
+[Click here to watch the video](Results%20Output/output_first_1000.mp4)
 
 ---
 
