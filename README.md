@@ -35,11 +35,11 @@ The system is trained and evaluated to ensure robust performance in challenging 
 
 
 
-### Training and Evaluation Results
+### Training and Evaluation Results.
 ![Results Graph](Results%20Output/results.png)
 
 
-## 🎥 Sample Video Output
+## 🎥 Sample Video Output.
 [Click here to watch the video](Results%20Output/output_first_1000.mp4)
 
 ---
