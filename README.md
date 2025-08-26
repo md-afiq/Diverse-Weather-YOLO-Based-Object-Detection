@@ -15,7 +15,7 @@ The system is trained and evaluated to ensure robust performance in challenging 
 ---
 
 ## 📌 Key Features
-- **YOLO Model**: Fast and accurate object detection.
+- **YOLO Model**: Fast and accurate object detection..
 - **Multi-Weather Robustness**: Handles fog, rain, and normal conditions.
 - **Multi-Class Detection**: Identifies vehicles, people, motorcycles, trucks, and traffic lights.
 - **Real-World Autonomous Driving Relevance**: Ideal for traffic monitoring, smart transport, and safety applications.
