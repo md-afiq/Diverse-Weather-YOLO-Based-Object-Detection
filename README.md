@@ -52,7 +52,7 @@ The system is trained and evaluated to ensure robust performance in challenging 
 3. **Inference**  
    - Detects multiple object classes in real-time video frames.
 4. **Output**  
-   - Annotated images & videos with bounding boxes and class labels.
+   - Annotated images & videos with bounding boxes and class labels..
 
 ---
 
