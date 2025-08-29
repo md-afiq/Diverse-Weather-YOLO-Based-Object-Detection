@@ -10,7 +10,7 @@ It can detect multiple object classes, including:
 - **Motorcycle**
 - **Traffic Light**
 
-The system is trained and evaluated to ensure robust performance in challenging scenarios such as foggy, rainy, and clear weather conditions.
+The system is trained and evaluated to ensure robust performance in challenging scenarios such as foggy, rainy, and clear weather conditions..
 
 ---
 
