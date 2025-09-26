@@ -1,6 +1,6 @@
 # Diverse-Weather-YOLO-Based-Object-Detection
 
-This project implements a **YOLO-based object detection system** designed to operate in **diverse weather conditions** for autonomous vehicle applications.  ..
+This project implements a **YOLO-based object detection system** designed to operate in **diverse weather conditions** for autonomous vehicle applications.  
 It can detect multiple object classes, including:
 
 - **Car**
